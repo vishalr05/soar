@@ -27,8 +27,6 @@ The goal is to make fitness feel like progression in a game while still reflecti
 
 ## Roadmap
 
-## Roadmap
-
 - [ ] Authentication
 - [ ] Workout Logging
 - [ ] Muscle XP Engine
