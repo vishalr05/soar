@@ -10,10 +10,12 @@ The goal is to make fitness feel like progression in a game while still reflecti
 
 ## Planned MVP
 
+## Planned MVP
+
 - Authentication
 - Workout Logging
-- Muscle XP System
 - Character Growth
+- Muscle XP Engine
 - Arena Progression
 
 ## Tech Stack
@@ -22,6 +24,8 @@ The goal is to make fitness feel like progression in a game while still reflecti
 - Supabase
 - PostgreSQL
 - Material 3
+
+## Roadmap
 
 ## Roadmap
 
@@ -37,8 +41,6 @@ The goal is to make fitness feel like progression in a game while still reflecti
 
 Most fitness apps reward users with streaks and numbers.
 
-I wanted to explore a different approach where every workout changes a character's physique, and long-term consistency unlocks new arenas inspired by RPG progression systems.
+I wanted to explore a different approach where every workout changes a character's physique and long-term consistency unlocks new arenas inspired by RPG progression systems.
 
-SOAR experiments with RPG mechanics where consistency and muscle-specific training change the player's character over time.
-
-This project is being built as a portfolio project and a way to explore game mechanics in a fitness application.
+SOAR is an experiment in combining game design with fitness to make progress feel visible, meaningful, and worth coming back for.
