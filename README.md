@@ -10,8 +10,6 @@ The goal is to make fitness feel like progression in a game while still reflecti
 
 ## Planned MVP
 
-## Planned MVP
-
 - Authentication
 - Workout Logging
 - Character Growth
