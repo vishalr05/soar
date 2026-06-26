@@ -1,0 +1,2 @@
+// shared/utils — Utility functions and helpers shared across features.
+// Add cross-feature utilities here (e.g., formatters, validators).

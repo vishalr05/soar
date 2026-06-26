@@ -1,0 +1,2 @@
+// shared/models — Domain models shared across features.
+// Add cross-feature models here (e.g., User, AppError).

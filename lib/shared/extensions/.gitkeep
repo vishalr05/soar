@@ -1,0 +1,2 @@
+// shared/extensions — Dart extension methods shared across features.
+// Add cross-feature extensions here (e.g., BuildContext, DateTime).

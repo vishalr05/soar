@@ -1,0 +1,2 @@
+// core/services — Application-wide services (e.g., analytics, logging, storage).
+// Add cross-cutting service classes here.
